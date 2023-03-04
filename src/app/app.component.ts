@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'spring-demo-integration';
+  title = 'j133-spring-demo-integration';
 }
